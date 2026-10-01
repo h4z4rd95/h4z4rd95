@@ -1,2 +1,3 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
